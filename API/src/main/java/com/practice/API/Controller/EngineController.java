@@ -23,7 +23,8 @@ public class EngineController {
     public void Testcase(){
         pe.start();
        int returnValue= pe.start();
-        System.out.println(returnValue);;
+         System.out.println("testing merge command");
+        System.out.println(returnValue);
 
     }
 

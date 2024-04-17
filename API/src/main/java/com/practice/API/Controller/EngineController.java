@@ -27,7 +27,7 @@ public class EngineController {
 
     }
 
-    @GetMapping("/pati")
+    @GetMapping("/thalla")
     public void Testcase2(){
         //de.start();
         int returnValue=de.start();
